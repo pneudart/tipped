@@ -1,0 +1,18 @@
+{
+  "name": "tipped",
+  "description": "",
+  "main": "tipped.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pneudart/tipped.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pneudart/tipped/issues"
+  },
+  "homepage": "https://github.com/pneudart/tipped#readme"
+}
